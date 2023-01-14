@@ -1,0 +1,11 @@
+user login and registration system;
+
+system to like and share articles;
+
+filter system to display news or articles
+
+article publishing system
+
+Author-made article display system
+
+notification system for people who liked and followed the user
